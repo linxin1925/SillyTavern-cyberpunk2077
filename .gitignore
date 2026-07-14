@@ -1,0 +1,10 @@
+*
+!dist/
+dist/*
+!dist/Cyberpunk2077/
+dist/Cyberpunk2077/*
+!dist/Cyberpunk2077/V0.5_EJS/
+dist/Cyberpunk2077/V0.5_EJS/*
+!dist/Cyberpunk2077/V0.5_EJS/地图脚本/
+dist/Cyberpunk2077/V0.5_EJS/地图脚本/*
+!dist/Cyberpunk2077/V0.5_EJS/地图脚本/index.js
