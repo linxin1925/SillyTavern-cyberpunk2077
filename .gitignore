@@ -8,3 +8,8 @@ dist/Cyberpunk2077/V0.5_EJS/*
 !dist/Cyberpunk2077/V0.5_EJS/地图脚本/
 dist/Cyberpunk2077/V0.5_EJS/地图脚本/*
 !dist/Cyberpunk2077/V0.5_EJS/地图脚本/index.js
+!dist/Cyberpunk2077/界面/
+dist/Cyberpunk2077/界面/*
+!dist/Cyberpunk2077/界面/状态栏/
+dist/Cyberpunk2077/界面/状态栏/*
+!dist/Cyberpunk2077/界面/状态栏/index.html
